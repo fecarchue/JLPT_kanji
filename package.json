@@ -7,7 +7,7 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "^5.0.0",
+    "react-scripts": "latest",
     "lucide-react": "0.523.0"
   },
   "devDependencies": {
