@@ -3018,6 +3018,7 @@ const KanjiLearningApp = () => {
             <div className="text-xs">내 한자</div>
           </button>
         </div>
+        <Analytics />
       </div>
     );
   }
