@@ -7,6 +7,7 @@ import {
   ExternalLink,
   MoreVertical,
 } from "lucide-react";
+import { Analytics } from '@vercel/analytics/react';
 
 // 실제 일본어 상용한자 데이터
 const kanjiData = {
