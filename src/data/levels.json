@@ -1,0 +1,79 @@
+[
+  {
+    "name": "초등1학년(한검10급)",
+    "key": "elementary1",
+    "count": 80,
+    "color": "bg-blue-500",
+    "shortName": "초1"
+  },
+  {
+    "name": "초등2학년(한검9급)",
+    "key": "elementary2",
+    "count": 160,
+    "color": "bg-blue-600",
+    "shortName": "초2"
+  },
+  {
+    "name": "초등3학년(한검8급,N3)",
+    "key": "elementary3",
+    "count": 200,
+    "color": "bg-blue-700",
+    "shortName": "초3"
+  },
+  {
+    "name": "초등4학년(한검7급)",
+    "key": "elementary4",
+    "count": 202,
+    "color": "bg-blue-800",
+    "shortName": "초4"
+  },
+  {
+    "name": "초등5학년(한검6급)",
+    "key": "elementary5",
+    "count": 193,
+    "color": "bg-blue-900",
+    "shortName": "초5"
+  },
+  {
+    "name": "초등6학년(한검5급,N2)",
+    "key": "elementary6",
+    "count": 191,
+    "color": "bg-indigo-500",
+    "shortName": "초6"
+  },
+  {
+    "name": "중학교-①(한검4급)",
+    "key": "middle1",
+    "count": 313,
+    "color": "bg-green-500",
+    "shortName": "중1"
+  },
+  {
+    "name": "중학교-②(한검3급)",
+    "key": "middle2",
+    "count": 284,
+    "color": "bg-green-500",
+    "shortName": "중2"
+  },
+  {
+    "name": "중학교-③(한검준2급)",
+    "key": "middle3",
+    "count": 328,
+    "color": "bg-green-500",
+    "shortName": "중3"
+  },
+  {
+    "name": "중학교-④(한검2급,N1)",
+    "key": "middle4",
+    "count": 185,
+    "color": "bg-green-500",
+    "shortName": "중4"
+  },
+  {
+    "name": "전체",
+    "key": "all",
+    "count": 2136,
+    "color": "bg-red-500",
+    "shortName": "전체"
+  }
+]
